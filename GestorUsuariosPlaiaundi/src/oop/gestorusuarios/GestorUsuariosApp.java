@@ -11,6 +11,7 @@ import java.util.Scanner;
 
 /**
  * @author Eñaut Agirre
+ * aplicacion principal
  *
  */
 public class GestorUsuariosApp {
